@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "name": "Next.js Template",
+    "description": "A web application template using Next.js and Supabase. Includes authentication system and multilingual support."
+  },
+  "common": {
+    "email": "Email",
+    "email_placeholder": "Enter your email",
+    "password": "Password",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "next": "Next",
+    "back": "Back",
+    "save": "Save",
+    "processing": "Processing...",
+    "success": "Success",
+    "error": "Error",
+    "or": "or",
+    "continue_with_google": "Continue with Google",
+    "get_started": "Get Started",
+    "copyright": "© {year} Next.js + Supabase Template"
+  },
+  "auth": {
+    "login": "Sign In",
+    "signup": "Sign Up",
+    "logout": "Sign Out",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "confirm_password": "Confirm Password",
+    "confirm_password_placeholder": "Confirm your password",
+    "forgot_password": "Forgot password?",
+    "reset_password": "Reset Password",
+    "reset_password_description": "Enter your email and we'll send you a link to reset your password.",
+    "get_reset_link": "Get reset link",
+    "back_to_login": "Back to login",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "logging_in": "Signing in...",
+    "signing_up": "Signing up...",
+    "or_continue_with": "Or continue with"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to your dashboard!",
+    "description": "This is a template dashboard page. You can customize it to fit your application's needs.",
+    "user_info": "Your user information"
+  }
+}
